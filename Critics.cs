@@ -1,6 +1,6 @@
 ﻿namespace JimmyLinq
 {
-    enum Critics
+    public enum Critics
     {
         MuddyCritic,
         RottenTornadoes,
